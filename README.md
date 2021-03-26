@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hector Osuna
 
-<!--
-**FanGoH/fangoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hai, everybody, I'm currently a Computer Science student with a lot of interest in Web/Mobile development.
 
-Here are some ideas to get you started:
+So far I know:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - HTML/CSS
+ - JS/TS
+ - React
+ - MongoDB
+ - MySQL
+ - Express
+ - Some other things that I will soon be comfortable with.
+
+Happy to be coding around here!
