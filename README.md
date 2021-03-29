@@ -15,6 +15,6 @@ So far I know:
  - MongoDB
  - MySQL
  - Express
- - Some other things that I will soon be comfortable with.
+ - GraphQL
 
 Happy to be coding around here!
