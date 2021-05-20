@@ -1,6 +1,6 @@
 # Hector Osuna
 
-Find me at [my page](www.fangoh.dev)
+Find me at [my page](https://www.fangoh.dev)
 
 
 ![Banner](https://pbs.twimg.com/profile_banners/1016129142314549248/1615239786/1500x500)
